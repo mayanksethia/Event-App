@@ -1,0 +1,2 @@
+# Event-App
+This app is a basic events app. In this app i have a navigation bar, an upcoming events section, about us, contact us etc menus. In the upcoming events i have listed the upcoming events using card view which is sharable i.e. you can share the information over whatsapp, email, facebook etc. You can also add the events to your favourites. I have also added a splash screen in the starting . 
